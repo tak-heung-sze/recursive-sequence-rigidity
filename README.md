@@ -1,6 +1,6 @@
 # Affine Observables, Mode Collapse, and Arithmetic Rigidity
 
-**Author:** Tak Heung Sze [cite: 3]
+**Author:** Tak Heung Sze
 **Official Website:** [recursivesequence.netlify.app](https://recursivesequence.netlify.app/)
 **License:** [CC BY 4.0](http://creativecommons.org/licenses/by/4.0) 
 
