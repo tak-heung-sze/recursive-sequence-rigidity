@@ -13,10 +13,10 @@ The study focuses on second-order linear recurrences defined by:
 $$x_{n+1} = ax_{n} + bx_{n-1}, \quad a, b \in \mathbb{Z}$$ 
 
 ## Key Scientific Contributions
-This work identifies three coupled consequences induced by affine observation under arithmetic constraints[cite: 20]:
+This work identifies three coupled consequences induced by affine observation under arithmetic constraints:
 
 * **Mode Collapse**: Oscillatory components of the system become unobservable.
-* **Dimensional Reduction**: Admissible trajectories are confined to specific invariant lattices[cite: 22].
+* **Dimensional Reduction**: Admissible trajectories are confined to specific invariant lattices.
 * **Arithmetic Rigidity**: Observed dynamics are reduced to simple translations on discrete sets, exhibiting modular locking.
 
 The central insight is that spectral cancellation is not a free design choice but a structural necessity compatible with integrality and invariance.
@@ -32,7 +32,7 @@ For the system $x_{n+1} = x_{n} + 2x_{n-1}$:
 $$\Lambda = \{ (x_n, x_{n-1}) : x_n \equiv -2^n \pmod{15} \}$$
 
 ## Contents of this Repository
-* `main.pdf`: Full research paper[cite: 2].
+* `main.pdf`: Full research paper.
 * For interactive demonstrations, please visit the official website: [recursivesequence.netlify.app](https://recursivesequence.netlify.app/).
 
 ## Citation
