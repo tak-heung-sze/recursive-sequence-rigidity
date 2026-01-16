@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18269678.svg)](https://doi.org/10.5281/zenodo.18269678)
 # Affine Observables, Mode Collapse, and Arithmetic Rigidity
 
 **Author:** Tak Heung Sze
