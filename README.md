@@ -10,10 +10,10 @@
 This research investigates low-dimensional linear discrete dynamical systems under constrained affine observations. It establishes a general mechanism where arithmetic restrictions and affine measurement design force a structural collapse of specific dynamical features[cite: 20, 25].
 
 The study focuses on second-order linear recurrences defined by:
-[]$$x_{n+1} = ax_{n} + bx_{n-1}, \quad a, b \in \mathbb{Z}$$ [cite: 32, 33]
+$$x_{n+1} = ax_{n} + bx_{n-1}, \quad a, b \in \mathbb{Z}$$ 
 
 ## Key Scientific Contributions
-[]This work identifies three coupled consequences induced by affine observation under arithmetic constraints[cite: 20]:
+This work identifies three coupled consequences induced by affine observation under arithmetic constraints[cite: 20]:
 
 * **Mode Collapse**: Oscillatory components of the system become unobservable.
 * **Dimensional Reduction**: Admissible trajectories are confined to specific invariant lattices[cite: 22].
@@ -22,7 +22,7 @@ The study focuses on second-order linear recurrences defined by:
 The central insight is that spectral cancellation is not a free design choice but a structural necessity compatible with integrality and invariance.
 
 ## Mathematical Context
-The system considers matrices with a dominant real eigenvalue $\lambda > 1$ [cite: 37] and a secondary real eigenvalue $\mu$ where $\mu < 0$ or $|\mu| []\le 1$[cite: 38]. []While classical linear filtering can eliminate modes via projection , this paper proves that affine observation forces this collapse as an unavoidable consequence of arithmetic consistency[cite: 72].
+The system considers matrices with a dominant real eigenvalue $\lambda > 1$ [cite: 37] and a secondary real eigenvalue $\mu$ where $\mu < 0$ or $|\mu| []\le 1$[cite: 38]. []While classical linear filtering can eliminate modes via projection , this paper proves that affine observation forces this collapse as an unavoidable consequence of arithmetic consistency.
 
 ### Canonical Example
 For the system $x_{n+1} = x_{n} + 2x_{n-1}$:
